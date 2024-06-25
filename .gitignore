@@ -119,4 +119,4 @@ GitHub.sublime-settings
 .vscode
 staticfiles
 
-job_visa_files/
+.env
